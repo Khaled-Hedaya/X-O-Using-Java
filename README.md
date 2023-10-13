@@ -1,1 +1,2 @@
-# X-O-Using-Java
+# (X-O) Using Java:
+Welcome to X-O (Tic-Tac-Toe) Game in Java! This project showcases a classic X-O game implemented in the Java programming language. The game provides a simple and enjoyable experience where two players take turns to mark their choice (X or O) on a 3x3 grid, aiming to achieve a winning combination. The project demonstrates core Java concepts, including object-oriented programming, user input handling, and graphical interface elements. It's a great starting point for Java enthusiasts to explore, learn, and enhance their programming skills while reliving the timeless joy of X-O. Feel free to dive in, contribute, or enjoy some matches with friends. Have fun and happy coding!
